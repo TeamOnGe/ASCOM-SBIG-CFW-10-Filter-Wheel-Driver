@@ -1,0 +1,10 @@
+C:\Users\dsi\source\repos\SBIG_CFW10\SBIG_CFW10\bin\Debug\ASCOM.SBIG_CFW10.FilterWheel.dll
+C:\Users\dsi\source\repos\SBIG_CFW10\SBIG_CFW10\bin\Debug\ASCOM.SBIG_CFW10.FilterWheel.dll.config
+C:\Users\dsi\source\repos\SBIG_CFW10\SBIG_CFW10\bin\Debug\ASCOM.SBIG_CFW10.FilterWheel.pdb
+C:\Users\dsi\source\repos\SBIG_CFW10\SBIG_CFW10\bin\Debug\ASCOM.SBIG_CFW10.FilterWheel.tlb
+C:\Users\dsi\source\repos\SBIG_CFW10\SBIG_CFW10\obj\Debug\ASCOM.SBIG_CFW10.Properties.Resources.resources
+C:\Users\dsi\source\repos\SBIG_CFW10\SBIG_CFW10\obj\Debug\ASCOM.SBIG_CFW10.SetupDialogForm.resources
+C:\Users\dsi\source\repos\SBIG_CFW10\SBIG_CFW10\obj\Debug\SBIG_CFW10.csproj.GenerateResource.cache
+C:\Users\dsi\source\repos\SBIG_CFW10\SBIG_CFW10\obj\Debug\SBIG_CFW10.csproj.CoreCompileInputs.cache
+C:\Users\dsi\source\repos\SBIG_CFW10\SBIG_CFW10\obj\Debug\ASCOM.SBIG_CFW10.FilterWheel.dll
+C:\Users\dsi\source\repos\SBIG_CFW10\SBIG_CFW10\obj\Debug\ASCOM.SBIG_CFW10.FilterWheel.pdb
