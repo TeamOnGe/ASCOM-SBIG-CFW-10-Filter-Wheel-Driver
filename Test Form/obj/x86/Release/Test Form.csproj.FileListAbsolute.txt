@@ -1,0 +1,29 @@
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\bin\Release\ASCOM.SBIG_CFW10.Test.exe.config
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\bin\Release\ASCOM.SBIG_CFW10.Test.exe
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\bin\Release\ASCOM.SBIG_CFW10.Test.pdb
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\bin\Release\ASCOM.Astrometry.dll
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\bin\Release\ASCOM.Attributes.dll
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\bin\Release\ASCOM.Controls.dll
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\bin\Release\ASCOM.DeviceInterfaces.dll
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\bin\Release\ASCOM.DriverAccess.dll
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\bin\Release\ASCOM.Exceptions.dll
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\bin\Release\ASCOM.Internal.Extensions.dll
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\bin\Release\ASCOM.SettingsProvider.dll
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\bin\Release\ASCOM.Utilities.dll
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\bin\Release\ASCOM.Utilities.Video.dll
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\bin\Release\ASCOM.Astrometry.xml
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\bin\Release\ASCOM.Attributes.xml
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\bin\Release\ASCOM.Controls.xml
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\bin\Release\ASCOM.DeviceInterfaces.xml
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\bin\Release\ASCOM.DriverAccess.xml
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\bin\Release\ASCOM.Exceptions.xml
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\bin\Release\ASCOM.Internal.Extensions.xml
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\bin\Release\ASCOM.SettingsProvider.xml
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\bin\Release\ASCOM.Utilities.xml
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\obj\x86\Release\ASCOM.SBIG_CFW10.Form1.resources
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\obj\x86\Release\ASCOM.SBIG_CFW10.Properties.Resources.resources
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\obj\x86\Release\Test Form.csproj.GenerateResource.cache
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\obj\x86\Release\Test Form.csproj.CoreCompileInputs.cache
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\obj\x86\Release\Test Form.csproj.CopyComplete
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\obj\x86\Release\ASCOM.SBIG_CFW10.Test.exe
+C:\Users\dsi\source\repos\SBIG_CFW10\Test Form\obj\x86\Release\ASCOM.SBIG_CFW10.Test.pdb
